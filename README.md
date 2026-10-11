@@ -9,8 +9,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#-license)
 
-[Features](#-features) · [How It Works](#-how-it-works) · [Built With](#%EF%B8%8F-built-with) · [Setup](#-setup) · [Customization](#%EF%B8%8F-customization) · [Credits](#-credits)
-
+[Features](#-features) 
 <img src="assets/demo.gif" alt="naruto-rasengan demo" width="640"/>
 
 </div>
